@@ -1,2 +1,2 @@
-# sumaEntreNumeros
+# SumaEntreNumeros
 Created with CodeSandbox
